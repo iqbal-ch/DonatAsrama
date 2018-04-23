@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Donat Asrama</string>
+    <string name="price_format">Total : Rp.%d\nThank you.</string>
+    <string name="order_summary" formatted="false">
+        Nama               : %s\n
+        No Kamar           : %s\n
+        Banyak Donat Coklat: %d\n
+        Banyak Donat Salju : %d\n
+        Total              : Rp.%d\n
+        Thank you!</string>
+</resources>
+
